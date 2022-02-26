@@ -1,27 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package switch_statement_exp;
 import java.util.Scanner;
-
-/**
- *
- * @author Shahzaib Islam
- */
 public class Switch_statement_exp 
 {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) 
     {
-        // TODO code application logic here
         int day;
         Scanner in = new Scanner(System.in);
-        
         boolean x=true;
         while(x==true)
         {
